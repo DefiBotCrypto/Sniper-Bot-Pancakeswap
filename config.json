@@ -1,0 +1,39 @@
+{
+    "NODE": "https://bsc-dataseed.binance.org/", 
+
+    "WALLET ADDRESS": "", 
+    "PRIVATE KEY": "",
+
+    "MINIMUM TOKEN RECIEVED": "0",
+	
+	"LIQUIDITY POOL": "BNB",
+	"AMOUNT IN BNB": "1",
+	"AMOUNT IN BUSD": "500",
+
+
+    "SELL MODE": "false",
+	"RATIO": "0.3",
+	"TAKEPROFIT": "200",
+	"STOPLOSS": "0",
+	
+	"SELL MODE 2": "false",
+	"RATIO 2": "0.5",
+    "TAKEPROFIT 2": "400",
+	"STOPLOSS 2": "0",
+	
+	
+	"SELL MODE 3": "false",
+	"RATIO 3": "1",
+    "TAKEPROFIT 3": "800",
+	"STOPLOSS 3": "0",
+
+
+    "ANTI BOT": "false",
+    "DELAY BLOCKS": "0",
+
+    "MIN LIQUIDITY": "20",
+    "MAX LIQUIDITY": "500000000",
+    "GAS PRICE": "9", 
+    "GAS LIMIT": "500000"    
+}
+
